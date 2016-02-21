@@ -1,8 +1,6 @@
 
 package org.learn.Question;
 
-import org.learn.PrepareTree.Node;
-
 public class PrintAncestorOfNode {
 	public static boolean printAncestorOfNode(Node root, int data) {
 		if(null == root) {
